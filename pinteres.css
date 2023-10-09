@@ -1,0 +1,91 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+    font-style: italic;
+    padding: 10px;
+    
+}
+
+.buscar{
+    width: 100%;
+    background-color: #e2e2e2;
+    border-radius: 40px;
+    height: 40px;
+}
+
+.texto{
+    outline: none;
+    border: none;
+    background-color: #e2e2e2;
+
+}
+
+
+.chico{
+    width: 30px;
+    height: 30px;
+   
+}
+.hola{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+  
+  
+    
+    
+}
+
+.borde{
+    border: none;
+
+}
+
+.colornegro{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    display: inline-block;
+       border-radius: 2em;
+        border:none;
+        outline: 2px solid black;
+        
+}
+
+
+button{
+    border: none;
+    background-color: white;
+}
+
+
+
+
+.acomodarderecha{
+    margin-left: 100px;
+    gap: 1px;
+   
+}
+
+.busca{ 
+    padding: 20px;
+    background-color: grey;
+    height: 10px;
+    width: 10px;
+}
+
+.pinterest{ 
+    columns: 6 320px;
+    
+}
+
+.tam{
+    width: 100%;
+   border-radius: 2rem;
+    border:none;
+    outline: 2px 
+ 
+}
+
